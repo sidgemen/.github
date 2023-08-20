@@ -1,1 +1,1 @@
-![Organisatie Logo](github/images/banner.png)
+![Organisatie Logo](profile/images/banner.png)
